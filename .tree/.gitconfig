@@ -1,0 +1,10 @@
+[user]
+	name = Сергей
+	email = sergant.wolf@yandex.ru
+[core]
+	autocrlf = input
+	filemode = false
+[i18n]
+	commitEncoding = utf-8
+[gui]
+	encoding = utf-8
